@@ -1,5 +1,5 @@
 import React from "react";
-import { VisuallyHiddenInput } from "../styled/visually-hidden-input/visually-hidden-input";
+import { VisuallyHiddenInput } from "/src/components/ui/styled";
 import { Label } from "./styled";
 
 const Checkbox = ({

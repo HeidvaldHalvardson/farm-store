@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const VisuallyHiddenInput = styled.input`
+const VisuallyHiddenInput = styled.input`
   position: absolute;
   width: 1px;
   height: 1px;
@@ -12,3 +12,5 @@ export const VisuallyHiddenInput = styled.input`
   clip: rect(0 0 0 0);
   overflow: hidden;
 `;
+
+export default VisuallyHiddenInput;
