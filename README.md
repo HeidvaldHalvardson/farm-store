@@ -1,2 +1,1 @@
-# farm-store
-Created with CodeSandbox
+https://csb-6b8mov.netlify.app/
