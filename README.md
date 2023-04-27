@@ -1,1 +1,3 @@
-https://csb-6b8mov.netlify.app/
+# Учебный проект "Фермерский магазин" с использованием технологии React
+
+[Ссылка на страницу](https://csb-6b8mov.netlify.app/)
